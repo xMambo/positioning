@@ -1,0 +1,41 @@
+p
+{
+
+}
+
+.blocktext
+{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.relative
+{
+height: 200px;
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+background: #eee;
+position: relative;
+}
+
+.absolute
+{
+    height: 100px;
+    width: 200px;
+    background: #888;
+    position: absolute;
+    left: 475px;
+    bottom: 242px;
+}
+
+.fixed
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #eee;
+    height: 100px;
+    width: 150px;
+}
